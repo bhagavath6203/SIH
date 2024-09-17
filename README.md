@@ -18,4 +18,4 @@ Coupan Type 1 => Flat
                     if both cridentals and recharge points are avabile 1
                     if only cridentals avabile the 2
                     if only recharge avabile 3
-                    nothing avabile then 4# SIH
+                    nothing avabile then 4
